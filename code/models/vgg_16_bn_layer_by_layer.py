@@ -176,7 +176,6 @@ def test(model, test_loader, optimizer=None, file_path=None):
 
     test_loss /= len(test_loader.dataset)
     test_loss_mute /= len(test_loader.dataset)
-    print("loss ori:", test_loss, "loss mute:", test_loss_mute)
 
     if optimizer != None:
         print('Test set: Average loss: {:.4f}, Accuracy: {}/{} ({:.1f}%), learning rate: {}'.format(
