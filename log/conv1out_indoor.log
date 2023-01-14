@@ -1,0 +1,16 @@
+mute IDX: 0%-25%
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [04:57<00:00, 29.71s/it]
+Test set: Average loss: 0.5923, Accuracy: 8756/10000 (87.6%)
+mute IDX: 25%-50%
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [04:45<00:00, 28.60s/it]
+Test set: Average loss: 0.5122, Accuracy: 8988/10000 (89.9%)
+mute IDX: 50%-75%
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [04:37<00:00, 27.77s/it]
+Test set: Average loss: 0.4912, Accuracy: 9030/10000 (90.3%)
+mute IDX: 75%-100%
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [04:38<00:00, 27.89s/it]
+Test set: Average loss: 0.3478, Accuracy: 9296/10000 (93.0%)

@@ -1,0 +1,212 @@
+(graduate) max.peng@door-arise-females-8tc-max-peng-master-0:~/graduate$ conv16out mute_min
+bash: conv16out: command not found
+(graduate) max.peng@door-arise-females-8tc-max-peng-master-0:~/graduate$ CUDA_VISIBLE_DEVICES=1 python3 /home/max.peng/graduate/code/models/vgg_16_bn_dump_rank.py 
+mute num:  0
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.30120315551757815
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  10
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.297502099609375
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  20
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.29324012451171877
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  30
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.2897665344238281
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  40
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.2862482299804687
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  50
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.281845849609375
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  60
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.2789736755371094
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  70
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.2761980346679688
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  80
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.274020263671875
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  90
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.2716250366210938
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  100
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.2705309326171875
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  110
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.2700043548583984
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  120
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.2688065124511719
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  130
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.2673754913330078
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  140
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.2655543487548828
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  150
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.2667688537597656
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  160
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.26814983215332033
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  170
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.27261515197753905
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  180
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.2739640655517578
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  190
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.2811577850341797
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  200
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.2954468505859375
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  210
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.30808734741210936
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  220
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.32401182861328126
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  230
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.3383428466796875
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  240
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.3666013488769531
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  250
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.4080918395996094
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  260
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.4536093017578125
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  270
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.5053685424804687
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  280
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.591471923828125
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  290
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.6930122924804687
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  300
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.8107437255859375
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  310
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 0.8916640625
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  320
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 1.1293114868164063
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  330
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 1.254120654296875
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  340
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 1.37788447265625
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  350
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 1.5415540771484375
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  360
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 1.7431199951171874
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  370
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 1.9452775634765624
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  380
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 2.2126244384765625
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  390
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 2.512920751953125
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  400
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 2.839108056640625
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  410
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 3.1224515625
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  420
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 3.337165869140625
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  430
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 3.539946240234375
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  440
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 3.80311240234375
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  450
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 4.054091162109375
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  460
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 4.2882130859375
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  470
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 4.47385693359375
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  480
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 4.60650166015625
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  490
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 4.9305818359375
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  500
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 5.17257216796875
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+mute num:  510
+=> loading teacher model checkpoint '/home/max.peng/graduate/vgg_16_bn.pt.pt'
+loss ori: 0.30120315551757815 loss mute: 5.47049189453125
+Test set: Average loss: 0.3012, Accuracy: 9396/10000 (94.0%)
+(graduate) max.peng@door-arise-females-8tc-max-peng-master-0:~/graduate$ 
